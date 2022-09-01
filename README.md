@@ -34,12 +34,14 @@ How Nadal and Murray compare against each other at Wimbledon?
 - In Nadal's peak, from the years 2006-2011 (injured in 2009), Nadal exhibited an extremely high level of performance at Wimbledon, making 3 finals and winning 2 titles. 
 - Murray, on the other hand, has never reached this level of dominance, but has a lot more consistent results than Nadal. 
 - In Murray's peak, from 2008-2016, he won two titles, made a final, four semifinals and 1 quarterfinal
-- Despite not being as dominant as Nadal in this time period, he was able to maintain his level for a longer period of time.
+- Despite not being as dominant as Nadal in this time period, he was able to maintain his level for a longer period of time. <br />
+ <br />
 
 - Now looking at the players that Nadal and Murray lost against, we see that Nadal tended to lose to weaker players but typically in close matches, and that Murray tended to lose to stronger players in a more decisive manner. 
 - From 2006-2011, in the 5 finals that Nadal made, he lost 3 of them to either the world #1 or #2 player. 
 - And from the years 2012-2015, Nadal lost to players ranked outside the top 100. 
-- From 2008-2016, Murray lost only once to a player outside of the top 6. . 
+- From 2008-2016, Murray lost only once to a player outside of the top 6. <br />
+<br />
 
 - So who is better at Wimbledon then? It really depends on what you view to be the most important factors. If you view absolute level, or peak performance with more importance, then Nadal would be better at Wimbledon. And if you view consistency and reliability with more importance, then Murray would be better at Wimbledon.
 
